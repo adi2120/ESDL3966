@@ -12,3 +12,10 @@ int subtract(int p,int q)
 {
 return p-q;
 }
+int multiplication(int p,int q)
+
+{
+
+return p*q;
+
+}
